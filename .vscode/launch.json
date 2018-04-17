@@ -1,0 +1,535 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Demo",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Demo",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Doctors",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Doctors",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Notes",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Notes",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Binary",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "binary.Binary",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CalculateShipping",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "calculateshipping.CalculateShipping",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CalculateShipping_Final",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "calculateshipping_final.CalculateShipping_Final",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ContactUI",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "contacts.ContactUI",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Contacts",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "contacts.Contacts",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ContactUI(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "contacts_final.ContactUI",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Contacts(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "contacts_final.Contacts",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CustomerNames",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "customernames.CustomerNames",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DataConversion",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "dataconversion.DataConversion",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DataConversion_Finish",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "dataconversion_finish.DataConversion_Finish",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Debugging",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "debugging.Debugging",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Debugging_Finish",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "debugging_finish.Debugging_Finish",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ErrorHandling",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "errorhandling.ErrorHandling",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ErrorHandling(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "errorhandling_final.ErrorHandling",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FileChallenge",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "filechallenge.FileChallenge",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FileChallenge(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "filechallenge_final.FileChallenge",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FortuneTeller",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "fortuneteller.FortuneTeller",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GroceryChallenge",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "grocerychallenge.GroceryChallenge",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GroceryChallenge(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "grocerychallenge_final.GroceryChallenge",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GroceryList",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "grocerylist.GroceryList",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GroceryList(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "grocerylist_final.GroceryList",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Heights",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "heights.Heights",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Heights(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "heights_final.Heights",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HospitalStay",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "hospitalstay.HospitalStay",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-InsertionSort",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "insertionsort.InsertionSort",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Loops",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "loops.Loops",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Methods",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "methods.Methods",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Methods_Final",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "methods_final.Methods_Final",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MovieList",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "movielist.MovieList",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MovieList(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "movielist_final.MovieList",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Overloading",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "overloading.Overloading",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Overloading_Final",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "overloading_final.Overloading_Final",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Prices",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "prices.Prices",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Prices(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "prices_final.Prices",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LanguagesUI",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "programminglanguages.LanguagesUI",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ProgrammingLanguages",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "programminglanguages.ProgrammingLanguages",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RandomNumbers",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "randomnumbers.RandomNumbers",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RandomNumbers_Final",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "randomnumbers_final.RandomNumbers_Final",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RealEstateListings",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "realestatelistings.RealEstateListings",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RealEstateListings(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "realestatelistings_final.RealEstateListings",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RealEstateMLS",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "realestatemls.RealEstateMLS",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RealEstateMLS(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "realestatemls_final.RealEstateMLS",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Recursion",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "recursion.Recursion",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SelectionSort",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "selectionsort.SelectionSort",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SimpleCalculation",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "simplecalculation.SimpleCalculation",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SimpleCalculation_Final",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "simplecalculation_final.SimpleCalculation_Final",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TravelCost",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "travelcost.TravelCost",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TravelCosts",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "travelcosts.TravelCosts",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TravelCosts_Finish",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "travelcosts_finish.TravelCosts_Finish",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Attach)",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": 0
+    }
+  ]
+}
